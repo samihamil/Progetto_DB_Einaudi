@@ -12,5 +12,5 @@ installa i pacchetti mancanti in modo da permettere il completo funzionamento de
 
 4)avvia Server e client:
 
-Avvia prima server_progettoTCP.py e in seguito client_progettoTCP.py(opzionale --> avere più client in ascolto)
+Avvia prima server_progettoTCP.py e in seguito client_progettoTCP.py(opzionale --> è possibile avere più di un client in ascolto sul server)
 
